@@ -1,0 +1,6 @@
+G:\Vstudio\Repos\qRPG\Engine\bin\Debug\Engine.dll
+G:\Vstudio\Repos\qRPG\Engine\bin\Debug\Engine.pdb
+G:\Vstudio\Repos\qRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+G:\Vstudio\Repos\qRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+G:\Vstudio\Repos\qRPG\Engine\obj\Debug\Engine.dll
+G:\Vstudio\Repos\qRPG\Engine\obj\Debug\Engine.pdb

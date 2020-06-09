@@ -1,0 +1,17 @@
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\qRPG.exe.config
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\qRPG.exe
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\qRPG.pdb
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\Engine.dll
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\Engine.pdb
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.csprojAssemblyReference.cache
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.Properties.Resources.resources
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.csproj.GenerateResource.cache
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.csproj.CoreCompileInputs.cache
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.csproj.CopyComplete
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.exe
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.pdb
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.qRPG.resources
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\qRPG.exe.manifest
+G:\Vstudio\Repos\qRPG\qRPG\bin\Debug\qRPG.application
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.exe.manifest
+G:\Vstudio\Repos\qRPG\qRPG\obj\Debug\qRPG.application
